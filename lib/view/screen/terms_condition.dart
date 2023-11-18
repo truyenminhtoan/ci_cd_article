@@ -68,7 +68,7 @@ These terms and conditions are effective as of 2022-08-15
               ),
               Text(
                 '''
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at onuifeanyi95@gmail.com.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at truyenminhtoan@gmail.com.
                 ''',
                 style: Config.b1(context),
               ),

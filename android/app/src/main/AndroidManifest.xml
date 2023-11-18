@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ifeanyi.checklist.android">
+    package="com.vietnit.checklist.android">
 
     <uses-permission android:name="android.permission.INTERNET" />
    <application

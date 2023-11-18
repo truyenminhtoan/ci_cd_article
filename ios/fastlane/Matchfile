@@ -1,4 +1,4 @@
-git_url("https://github.com/o-ifeanyi/ci_cd_article_match")
+git_url("https://github.com/truyenminhtoan/ci_cd_article_match")
 
 storage_mode("git")
 
