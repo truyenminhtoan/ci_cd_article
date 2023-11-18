@@ -1,4 +1,4 @@
-package com.vietnit.checklist.android
+package com.vietnit.iticket_lite
 
 import io.flutter.embedding.android.FlutterActivity
 

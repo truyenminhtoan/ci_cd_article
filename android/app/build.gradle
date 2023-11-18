@@ -39,7 +39,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.vietnit.checklist.android"
+        applicationId "com.vietnit.iticket_lite"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
         versionCode 4
