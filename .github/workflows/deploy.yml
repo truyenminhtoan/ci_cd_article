@@ -19,7 +19,7 @@ jobs:
         channel: stable
         cache: true
 
-    - name: Set up key.properties
+    - name: Set up key.properties ok
       run: |
         echo "keyPassword=${{ secrets.KEY_PASSWORD }}" > android/key.properties
         echo "storePassword=${{ secrets.STORE_PASSWORD }}" >> android/key.properties
