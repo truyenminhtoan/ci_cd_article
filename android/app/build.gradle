@@ -39,7 +39,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "ifeanyi.checklist.android"
+        applicationId "com.vietnit.checklist.android"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
         versionCode 4
